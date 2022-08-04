@@ -1,8 +1,8 @@
 # Jogo da velha (servidor, clientes)
 
-Código fonte para servidor e clientes multiplayer do jogo da velha.
+Projeto final da disciplina de protocolos de aplicação do CST Redes de Computadores do IPFB
 
-Vídeo de apresentação: 
+Código fonte para servidor e clientes multiplayer do jogo da velha.
 
 Para rodar aplicação:
 
